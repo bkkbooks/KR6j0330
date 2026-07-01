@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0330/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0330/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀世音菩薩救苦經
+  identifiers:
+    krp: KR6j0330
+    cbeta: X01n0034
+    cbeta_old_id: X01n0034
+    authorityid: CA0001207
+    json_key: X0034
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0034.xml
+    old_id: X01n0034
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0330_000-X.yaml, hash: 'sha256:99dfc0d2d8acfd5846813c43905378e3ee0cd708a3010297bc9a850e824676e5'}
+  - {seq: 1, filename: KR6j0330_001-X.yaml, hash: 'sha256:38fb780236ac28394323b525010c3b48363fcc9f34eab429a082b375873e5fb4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0330_000-X.markers.yaml, hash: 'sha256:249e89d9f429099e3e2ab96e63bd09200cd611fdbfd4072c677ca635a5b51641'}
+  - {seq: 1, role: markers, filename: assets/KR6j0330_001-X.markers.yaml, hash: 'sha256:105ba9fcd4ccb75bedd5f1f70afe241bec3e89955838d797f95317f67b0c724f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0330_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 191
+  label: 觀世音菩薩救苦經
+  type: juan
+  level: 1
+hash: sha256:a9e484da94ce5ccb88fe3dd7418eea206b624055b394dcb8d40e40f9e27fc4b5

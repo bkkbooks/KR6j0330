@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0330/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀世音菩薩救苦經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0034.xml
+    old_id: X01n0034
+hash: sha256:99dfc0d2d8acfd5846813c43905378e3ee0cd708a3010297bc9a850e824676e5

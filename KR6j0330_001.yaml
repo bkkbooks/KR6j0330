@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6j0330/x/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南無救苦觀世音菩薩百千萬億佛恆河沙數佛無量功德佛佛告阿難言此經大聖能救獄囚能救重病能救千災百難苦若有人誦得一千遍一身離苦難誦得一萬遍合家離苦難南無佛力威南無佛力護使人無惡心令人身得度回光菩薩回善菩薩阿耨大天王正殿菩薩摩邱摩邱清淨比邱官事得散私事得休諸大菩薩五百羅漢救護弟子身悉皆離苦難自然觀世音纓絡不須解勤誦千萬遍災難自然得解脫信受奉行即說真言曰今菩今菩提陀羅尼帝尼佉羅帝菩提薩婆訶
+  hash: sha256:ea334c8cc07f3b90515420bd6f625ea89fc2a5b2918ed21e41f43148470f5090
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 觀世音菩薩救苦經, id: KR6j0330_X_001-juan-start, juan_n: '001', jhead: 觀世音菩薩救苦經}
+metadata:
+  title: 觀世音菩薩救苦經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0034.xml
+    old_id: X01n0034
+hash: sha256:3ed3861fe8013f2d2fbdf4aed8750e0ed188196e29dce074360d8ba48ddfd798
