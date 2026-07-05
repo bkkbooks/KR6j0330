@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0330_000.yaml, hash: 'sha256:99dfc0d2d8acfd5846813c43905378e3ee0cd708a3010297bc9a850e824676e5'}
-  - {seq: 1, filename: KR6j0330_001.yaml, hash: 'sha256:3ed3861fe8013f2d2fbdf4aed8750e0ed188196e29dce074360d8ba48ddfd798'}
+  - {seq: 1, filename: KR6j0330_001.yaml, hash: 'sha256:38fb780236ac28394323b525010c3b48363fcc9f34eab429a082b375873e5fb4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0330_001.markers.yaml, hash: 'sha256:9d6be312b6539a9b813889b92a8ffea468da4230347a99805ce0c29f1ed5f8e3'}
+  - {seq: 0, role: markers, filename: assets/KR6j0330_000.markers.yaml, hash: 'sha256:fd9d372af10190575343f614c438d2952e7326105d6dede419f88e9b89d21ea2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0330_001.markers.yaml, hash: 'sha256:677e32125f31d2ae2fe0ce6df75ded96aa0473b54b463e3dcca0d26c51b39b3a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +32,4 @@ table_of_contents:
   label: 觀世音菩薩救苦經
   type: juan
   level: 1
-hash: sha256:d2d284ed0a2d9a05f5089199db88e72121dd3088fc7f27c7b0c9ee589a2be448
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:33e3ac413d9cc37afe68d2145cddc6c0563b92026c873552f8c39a4efc6855a3
