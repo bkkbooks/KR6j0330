@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR6j0330_X_001-0575a03, ed: R087, 'n': 0575a03}
   - {type: xml-element, offset: 0, content: '', id: pX01p0469c0701, name: p, role: open, attrs: {'xml:id': pX01p0469c0701}}
   - {type: punctuation, offset: 9, content: ，, id: KR6j0330_X_001-bkkpn1}
+  - {type: substitution, offset: 14, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: punctuation, offset: 19, content: ，, id: KR6j0330_X_001-bkkpn2}
   - {type: line-break, offset: 20, content: '', id: KR6j0330_X_001-0469c07, ed: X, 'n': 0469c07}
   - {type: line-break, offset: 20, content: '', id: KR6j0330_X_001-0575a04, ed: R087, 'n': 0575a04}
@@ -58,6 +59,7 @@ markers:
   - {type: punctuation, offset: 164, content: 。, id: KR6j0330_X_001-bkkpn33}
   - {type: punctuation, offset: 168, content: 。, id: KR6j0330_X_001-bkkpn34}
   - {type: punctuation, offset: 168, content: 」, id: KR6j0330_X_001-bkkpn35}
+  - {type: substitution, offset: 169, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 173, content: ：, id: KR6j0330_X_001-bkkpn36}
   - {type: xml-element, offset: 173, content: '', id: pX01p0469c0701_end, name: p, role: close, attrs: {'xml:id': pX01p0469c0701}}
   - {type: line-break, offset: 173, content: '', id: KR6j0330_X_001-0469c15, ed: X, 'n': 0469c15}
@@ -72,4 +74,4 @@ markers:
   - {type: punctuation, offset: 191, content: 」, id: KR6j0330_X_001-bkkpn38}
   - {type: xml-element, offset: 191, content: '', id: pX01p0469c1601_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pX01p0469c1601}}
   back: []
-hash: sha256:677e32125f31d2ae2fe0ce6df75ded96aa0473b54b463e3dcca0d26c51b39b3a
+hash: sha256:5b9f9a98f38d739ef5e7f839c86715742c2b1db5301b89695d3d35bec25b9b50
